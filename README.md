@@ -51,8 +51,7 @@
 
 ---
 
-## Mazandi Rank
-
+## ✨Mazandi Rank✨
 <p align="center">
   <img src="http://mazandi.herokuapp.com/api?handle=s00bin&theme=pichulia" />
 </p>
