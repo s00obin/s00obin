@@ -23,7 +23,7 @@
 ```
     　　 .lıllılı.ıllıılı.
  [Really Like You] - [BABYMONSTER]
-　        1:08 ──•───── 3:27
+　        1:08 ──•───── 3:46
   ↺   <<        ll        >>   ⋮≡
 ```
 ▶ [Listen on YouTube](https://www.youtube.com/watch?v=XShaIZs7J7M)
