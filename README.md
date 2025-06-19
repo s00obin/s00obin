@@ -14,11 +14,11 @@
 ---
 
 ## 🎀About Me🎀
-- Majoring in **Computer Engineering** at *Gachon University*
-- Creating an **Android App** that recommends food by **weather + mood**
-- Passionate about **AI**, **ML**, and **Optimization** in side-projects
-- Writing articles sometimes on [Notion](https://www.notion.so)
-- I love helping with **Java**, **Python**, **Git**, and **Android Studio**
+- Majoring in **Artificial Intelligence** at *Gachon University*
+- Developing Android apps that recommend food based on **weather** and **mood**
+- Exploring **Machine Learning**, **Deep Learning**, and **Optimization** in personal projects
+- Occasionally writing tech notes and ideas on [Notion](https://www.notion.so)
+- Happy to chat about **Java**, **Python**, **Git**, or **Android Studio**
 
 ## ｡o♬*ﾟﾟ Now Playing
 ```
