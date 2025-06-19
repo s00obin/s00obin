@@ -20,6 +20,7 @@
 - Writing articles sometimes on [Notion](https://www.notion.so)
 - I love helping with **Java**, **Python**, **Git**, and **Android Studio**
 
+## ｡o♬*ﾟﾟ Now Playing
 ```
     　　 .lıllılı.ıllıılı.
  [Really Like You] - [BABYMONSTER]
