@@ -9,11 +9,11 @@
 
 ## 🌷 About Me
 
-- 🎓 Studying **Computer Engineering** at *Gachon University*
-- 📱 Developing an **Android App** that recommends food based on **weather** & **mood**
-- 🤖 Exploring **AI**, **ML**, and **Optimization** in mini-projects
-- ✍️ Writing tech articles on [Notion](https://www.notion.so) (optional)
-- 💬 Ask me anything about **Java**, **Python**, **Android Studio**, or **Git**
+- Studying **Computer Engineering** at *Gachon University*
+- Developing an **Android App** that recommends food based on **weather** & **mood**
+- Exploring **AI**, **ML**, and **Optimization** in mini-projects
+- Writing tech articles on [Notion](https://www.notion.so) (optional)
+- Ask me anything about **Java**, **Python**, **Android Studio**, or **Git**
 
 ---
 
