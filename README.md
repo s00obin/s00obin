@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#F06292">🌸 Welcome! I'm <strong>s00bin</strong> 🌸</h1>
+<h1 align="center" style="color:#F06292">☆⋆｡𖦹°·★ Welcome! I'm <strong>s00bin</strong> ☆⋆｡𖦹°·★</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android Dev-FF4081?style=for-the-badge&logo=android&logoColor=white"/>
