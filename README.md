@@ -22,10 +22,12 @@
 
 ```
     　　 .lıllılı.ıllıılı.
-　   　[song link ]- [artist]
+　   　[Really Like You]- [BABYMONSTER]
 　        1:08 ──•───── 3:27
   ↺   <<        ll        >>   ⋮≡
 ```
+▶ [Listen on YouTube](https://www.youtube.com/watch?v=XShaIZs7J7M)
+
 ---
 
 ## 🛠️ Languages & Tools
