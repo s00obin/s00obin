@@ -12,7 +12,7 @@
 
 ---
 
-## 🪷 About Me
+## About Me ꒰১ ໒꒱ 𓂃◌𓈒
 
 - Majoring in **Computer Engineering** at *Gachon University*
 - Creating an **Android App** that recommends food by **weather + mood**
