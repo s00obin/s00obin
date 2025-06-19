@@ -52,7 +52,7 @@
 
 ---
 
-##  ﮩ٨ـﮩﮩ٨ـ Mazandi Rank  ﮩ٨ـﮩﮩ٨
+## Mazandi Rank
 
 <p align="center">
   <img src="http://mazandi.herokuapp.com/api?handle=s00bin&theme=pichulia" />
@@ -60,7 +60,7 @@
 
 ---
 
-## ✎𓂃 Connect with Me
+## 💌 Connect with Me
 
 <p align="left">
   <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-212121?style=flat&logo=gmail&logoColor=FF80AB"/></a>
