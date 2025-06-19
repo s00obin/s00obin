@@ -9,7 +9,7 @@
   AI major @ Gachon University | Android Developer & ML Explorer
 </p>
 
-<h3 align="center">🌸 Nice To Meet You! 🌸</h3>
+<h3 align="center">Nice To Meet You!</h3>
 
 ---
 
