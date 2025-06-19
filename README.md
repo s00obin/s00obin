@@ -20,11 +20,12 @@
 - Writing articles sometimes on [Notion](https://www.notion.so)
 - I love helping with **Java**, **Python**, **Git**, and **Android Studio**
 
-𝗪𝗮𝘀𝗵𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗛𝗲𝗮𝗿𝘁
-ᴹⁱᵗˢᵏⁱ                                                   ♥︎
-⇄              ◁◁  𝚰𝚰   ▷▷               ↻
-⁰⁰'²⁵ ━━●━━───── ⁰²'⁰⁸
-
+```
+    　　 .lıllılı.ıllıılı.
+　   　[song link ]- [artist]
+　        1:08 ──•───── 3:27
+  ↺   <<        ll        >>   ⋮≡
+```
 ---
 
 ## 🛠️ Languages & Tools
