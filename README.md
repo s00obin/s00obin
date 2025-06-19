@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-212121?style=flat-square&logo=java&logoColor=F06292"/>
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 𖤐 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s00bin&show_icons=true&theme=tokyonight&icon_color=FF80AB&title_color=FF80AB&text_color=ffffff&bg_color=0d1117" height="180px"/>
@@ -60,7 +60,7 @@
 
 ---
 
-## 📬 Connect with Me
+## ✎𓂃 Connect with Me
 
 <p align="left">
   <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-212121?style=flat&logo=gmail&logoColor=FF80AB"/></a>
