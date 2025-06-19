@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" style="color:#cccccc">
-  AI major @ Gachon University | Android Developer & ML Explorer
+  AI major @ Gachon University | Android Developer & ML Explorer/
   Nice To Meet You!
 </p>
 
