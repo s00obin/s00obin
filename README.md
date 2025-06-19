@@ -6,8 +6,7 @@
 </p>
 
 <p align="center" style="color:#cccccc">
-  Passionate about building smart apps that connect <b>emotion</b> and <b>technology</b>.<br>
-  Computer Engineering @ Gachon University
+  AI major @ Gachon University | Android Developer & ML Explorer
 </p>
 
 ---
