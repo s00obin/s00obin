@@ -20,6 +20,11 @@
 - Writing articles sometimes on [Notion](https://www.notion.so)
 - I love helping with **Java**, **Python**, **Git**, and **Android Studio**
 
+  　　　　 .lıllılı.ıllıılı.
+　　[song link ]- [artist]
+　  1:08 ──•───── 3:27
+↺       <<          ll          >>     ⋮≡
+
 ---
 
 ## 🛠️ Languages & Tools
