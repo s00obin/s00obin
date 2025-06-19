@@ -22,7 +22,7 @@
 
 ```
     　　 .lıllılı.ıllıılı.
-　   　[Really Like You]- [BABYMONSTER]
+ [Really Like You] - [BABYMONSTER]
 　        1:08 ──•───── 3:27
   ↺   <<        ll        >>   ⋮≡
 ```
