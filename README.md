@@ -58,7 +58,3 @@
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-FF4081?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://your-notion-link"><img src="https://img.shields.io/badge/Notion-212121?style=flat&logo=notion&logoColor=FF80AB"/></a>
 </p>
-
-## 🧩 Contributions
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=s00obin&theme=pichulia)
