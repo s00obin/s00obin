@@ -52,7 +52,7 @@
 
 ---
 
-## 🔥 Mazandi Rank
+##  ﮩ٨ـﮩﮩ٨ـ Mazandi Rank  ﮩ٨ـﮩﮩ٨
 
 <p align="center">
   <img src="http://mazandi.herokuapp.com/api?handle=s00bin&theme=pichulia" />
