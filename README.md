@@ -1,48 +1,62 @@
-<h1 align="center">🌸 Hi there, I'm <span style="color:#E91E63">s00bin</span> 🌸</h1>
+<h1 align="center" style="color:#F06292">🌸 Welcome! I'm <strong>s00bin</strong> 🌸</h1>
 
 <p align="center">
-  A passionate developer and computer engineering student from Korea <br>
-  <b><span style="color:#EC407A">Android Dev</span> | <span style="color:#F48FB1">ML Enthusiast</span></b>
+  <img src="https://img.shields.io/badge/Android Dev-FF4081?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML Enthusiast-212121?style=for-the-badge&logo=python&logoColor=FF80AB"/>
 </p>
 
-<br>
-
-## 🌷 About Me
-
-- 🎓 Studying **Computer Engineering** at *Gachon University*
-- 📱 Developing an **Android App** that recommends food based on **weather** & **mood**
-- 🤖 Exploring **AI**, **ML**, and **Optimization** in mini-projects
-- ✍️ Writing tech articles on [Notion](https://www.notion.so) (optional)
-- 💬 Ask me anything about **Java**, **Python**, **Android Studio**, or **Git**
+<p align="center" style="color:#cccccc">
+  💻 Passionate about building smart apps that connect <b>emotion</b> and <b>technology</b>.<br>
+  🎓 Computer Engineering @ Gachon University
+</p>
 
 ---
 
-## 💖 Languages & Tools
+## 🪷 About Me
+
+- 🎓 Majoring in **Computer Engineering** at *Gachon University*
+- 📱 Creating an **Android App** that recommends food by **weather + mood**
+- 🤖 Passionate about **AI**, **ML**, and **Optimization** in side-projects
+- 📝 Writing articles sometimes on [Notion](https://www.notion.so)
+- 💬 I love helping with **Java**, **Python**, **Git**, and **Android Studio**
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-F48FB1?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-EC407A?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-FF80AB?style=flat&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-F06292?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F48FB1?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-212121?style=flat-square&logo=java&logoColor=F06292"/>
+  <img src="https://img.shields.io/badge/Python-FF80AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-212121?style=flat-square&logo=android&logoColor=FF80AB"/>
+  <img src="https://img.shields.io/badge/VSCode-FF80AB?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-212121?style=flat-square&logo=git&logoColor=F48FB1"/>
 </p>
 
 ---
 
-## ✨ GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s00bin&show_icons=true&theme=tokyonight&icon_color=FF80AB&title_color=F06292&text_color=F8BBD0&bg_color=00000000" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s00bin&layout=compact&theme=tokyonight&title_color=F06292&text_color=F8BBD0&bg_color=00000000" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=s00bin&show_icons=true&theme=tokyonight&icon_color=FF80AB&title_color=FF80AB&text_color=ffffff&bg_color=0d1117" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s00bin&layout=compact&theme=tokyonight&title_color=FF80AB&text_color=ffffff&bg_color=0d1117" height="180px"/>
 </p>
 
 ---
 
-## 🌸 Let's Connect
+## 🔥 Mazandi Rank
+
+<p align="center">
+  <img src="http://mazandi.herokuapp.com/api?handle=s00bin&theme=pichulia" />
+</p>
+
+---
+
+## 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D81B60?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-E91E63?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-notion-link"><img src="https://img.shields.io/badge/Notion-EC407A?style=flat&logo=notion&logoColor=white"/></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-212121?style=flat&logo=gmail&logoColor=FF80AB"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-FF4081?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-notion-link"><img src="https://img.shields.io/badge/Notion-212121?style=flat&logo=notion&logoColor=FF80AB"/></a>
 </p>
 
 ## 🧩 Contributions
